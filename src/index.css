@@ -12,6 +12,9 @@ body {
   font-size: 30px;
   padding-left: 30px;
 }
-.offcanvas-header {
+.offcanvas-body {
+  font-family: Klee One;
+}
+#offcanvasNavbarLabel {
   font-family: Klee One;
 }
